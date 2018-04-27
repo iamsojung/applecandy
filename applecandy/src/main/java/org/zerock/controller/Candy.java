@@ -6,6 +6,7 @@ public class Candy {
 	String dd,aa,cc,ee,ff;
 	String pineapplepen, applepen;
 	
+	long ghgh;
 	
 	
 }
